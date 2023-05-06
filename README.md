@@ -22,7 +22,9 @@
 
 ## 💻 Sobre o clone
 
-O clone da aplicação do spotify foi desenvolvimento apenas para fins de estudos e de desafio próprio.
+O clone da aplicação do spotify foi desenvolvimento apenas para fins de estudos e de desafio próprio. Não foi pensado na parte responsiva.
+
+Link: https://ui-clone-spotify-gamma.vercel.app
 
 ---
 
